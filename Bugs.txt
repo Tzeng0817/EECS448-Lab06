@@ -1,0 +1,13 @@
+1. enqueue() 
+2. ~Queue() 
+
+or   
+
+1. dequeue()
+2. peekFront()
+3. ~Queue()
+
+	It is my best suggestion since I couldn't see the implementation of the Queue class. I guess the inserted bugs are in either enqueue() or dequeue() and peekFront(). Destructor is absolutely inccorect.   
+	
+
+
